@@ -1,0 +1,9 @@
+space game
+
+buffered images, pixels, spritesheet, bufferstrategy
+
+
+space ship - shoots - 3 different bullets can be picked up
+enemies    - 5 different enemies
+sprite sheet 
+generate white pixels for stars 
