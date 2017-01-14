@@ -4,6 +4,7 @@ As a little green alien, it is your mission to reach Earth and take it over. Unf
 
 
 Running
+
 To play Earth Invader either clone the project or download the zip into a local directory.
 
 $ git clone https://github.com/ljtrevor/Earth-Invader.git
@@ -22,6 +23,7 @@ Earth Invader was intended to be a fun side project to give the developer experi
 Numerous tutorials were used to help create this game. The tutorials are listed below. 
 
 Resources:
+
 https://www.youtube.com/channel/UCaM7SQvF5q9sz4NgL16PNRA
 https://www.youtube.com/user/ForeignGuyMike
 https://www.youtube.com/user/thenewboston
