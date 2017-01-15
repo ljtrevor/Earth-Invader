@@ -10,8 +10,7 @@ $ git clone https://github.com/ljtrevor/Earth-Invader.git
 
 The main is located in Game.java
 
-
-To run this game using Eclipse
+####To run this game using Eclipse
  - Clone the repository
  - Open the project in Eclipse
  - Navigate to Game.java in src
