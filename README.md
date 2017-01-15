@@ -7,7 +7,9 @@ As a little green alien, it is your mission to reach Earth and take it over. Unf
 To play Earth Invader either clone the project or download the zip into a local directory.
 
 $ git clone https://github.com/ljtrevor/Earth-Invader.git
+
 The main is located in Game.java
+
 
 To run this game using Eclipse
  - Clone the repository
