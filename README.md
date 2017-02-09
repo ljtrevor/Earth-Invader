@@ -1,6 +1,6 @@
 # Earth Invader
 
-As a little green alien, it is your mission to reach Earth and take it over. Unfortunately, humans are quite fond of earth and will do anything to protect it! Earth Invader is a 2D platform space game inspired by the iconic game Galaga.
+As a little green alien, it is your mission to reach Earth and take it over. Unfortunately, humans are quite fond of earth and will do anything to protect it! Earth Invader is a 2D platform space game inspired by the classic arcade game, Galaga.
 
 
 ##Running
