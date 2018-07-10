@@ -3,14 +3,14 @@
 As a little green alien, it is your mission to reach Earth and take it over. Unfortunately, humans are quite fond of earth and will do anything to protect it! Earth Invader is a 2D platform space game inspired by the classic arcade game, Galaga.
 
 
-##Running
+## Running
 To play Earth Invader either clone the project or download the zip into a local directory.
 
 $ git clone https://github.com/ljtrevor/Earth-Invader.git
 
 The main is located in Game.java
 
-####To run this game using Eclipse
+#### To run this game using Eclipse
  - Clone the repository
  - Open the project in Eclipse
  - Navigate to Game.java in src
@@ -18,11 +18,11 @@ The main is located in Game.java
  - Enjoy!
  
 
-##Credit
+## Credit
 Earth Invader was intended to be a fun side project to give the developer experience with game development. 
 Numerous tutorials were used to help create this game. The tutorials are listed below. 
 
-##Resources:
+## Resources:
 https://www.youtube.com/channel/UCaM7SQvF5q9sz4NgL16PNRA
 https://www.youtube.com/user/ForeignGuyMike
 https://www.youtube.com/user/thenewboston
